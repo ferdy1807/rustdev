@@ -1,0 +1,15 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Build
+/bin/
+/dist/
+/node_modules/
+
+# Env files
+.env
+.env.local
